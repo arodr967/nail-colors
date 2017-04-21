@@ -7,7 +7,7 @@ var collection = [
   'I Can Never Hut Up',
   'Super Trop-i-cal-i-fiji-istic',
   // 'Suzi Without a Paddle', // 03/10/17
-  'Coconuts Over OPI',
+  // 'Coconuts Over OPI', // 04/08/17
   'No Tan Lines',
   'Exotic Birds Do Not Tweet',
   'Two-timing the Zones'
