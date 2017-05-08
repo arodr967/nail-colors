@@ -1,8 +1,8 @@
 var collection = [
-  'Living On the Bula-vard!',
+  // 'Living On the Bula-vard!', // 05/08/17
   'Getting Nadi On My Honeymoon',
   // 'Polly Want a Lacquer?', // 03/24/17
-  'Do You Sea What I Sea?',
+  // 'Do You Sea What I Sea?', // 04/22/17
   'Is That a Spear in Your Pocket?',
   'I Can Never Hut Up',
   'Super Trop-i-cal-i-fiji-istic',
